@@ -1,10 +1,10 @@
 Introduction/Business Problem
 
-For this project, I will be investigating where a good place to start an Asian restaurant would be.  I will be examining 4 different locations: New York, New Jersey, Boston,
-and San Fransisco.  Determining how many restaurants and how close they are to each other might provide adequete informaiton in where putting another location would be, although
-not considering population density or other demographic information by census track. 
+For this project, I will be investigating where a good place to start an Asian restaurant would be.  I will be examining 5 different locations: New York, New Jersey, Boston,
+Chicago, and San Fransisco.  Determining how many restaurants and how close they are to each other might provide adequete informaiton in where putting another location would be, 
+although not considering population density or other demographic information by census track. 
 
 Data 
 
-For this project, I will be using Foursquare data to acquire where the Asian restaurants are. Also, google will be used to locate the latitude and longitude for mapping and venue 
-placing purposes. 
+For this project, I will be using Foursquare data to acquire where the Asian restaurant venues are. Also, google will be used to locate the latitude and longitude for mapping 
+and venue placing purposes. 
